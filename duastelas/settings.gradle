@@ -1,0 +1,2 @@
+rootProject.name='duastelas'
+include ':app'
